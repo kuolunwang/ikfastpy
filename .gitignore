@@ -1,3 +1,6 @@
 build/*
 ikfastpy.cpp
 ikfastpy.so
+
+*.so
+*.pyc
